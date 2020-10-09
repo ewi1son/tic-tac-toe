@@ -1,20 +1,21 @@
 html, body {
     height:100vh;
     background-color: rgba(71, 108, 155, .1);
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 4vmax;
+    
+}
+h4{
+    font-size: 2vmax;
+}
+#button{
+    font-size: 1.5vmax;
 }
 #boardRow {
     max-width: 40rem;
     height: 20vh;
     max-height: 40rem;
-    
-}
-h1{
-    font-size: 4vmax;
-}
-h4{
-    font-size: 2vmax;
-}
-#square{
-    background-color: rgba(71, 108, 155, .1);;
 }
 
